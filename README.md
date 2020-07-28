@@ -66,7 +66,7 @@
         * 제플린
             * 버전업 전 프로토타입 시안, 원본 이미지 저장
 
-## 7. Process
+## Process
 1. 앱 ↔ 웹 기본 통신
 <img src="/img/process_connect.png" width="100%">
 <br/><br/>
