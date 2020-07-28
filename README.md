@@ -1,8 +1,6 @@
 # 캐치야, 물어와! : 특가정보 모음집 '캐치딜'
 <div align="center"><img src="/img/app-v4.png?raw=true" width="500px"></div>
 
-## 팀원
-
 ## Related
 * 앱 클라이언트 Repository : https://github.com/catchdeal/catchDeal-Client
 * API 통신 / 소개 페이지 렌더링 / Database Server : https://github.com/catchdeal/CatchDeal-API
