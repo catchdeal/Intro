@@ -3,16 +3,14 @@
 
 ## 팀원
 
-## 1. 프론트엔트/백엔드 언어 정보
-
-## 2. 해당 Repository와의 연결고리(Team member only)
+## Related
 * 앱 클라이언트 Repository : https://github.com/catchdeal/catchDeal-Client
 * API 통신 / 소개 페이지 렌더링 / Database Server : https://github.com/catchdeal/CatchDeal-API
 * 크롤링 (AWS Lamabda + Ruby on Jets) : https://github.com/catchdeal/CatchDeal-Lambda
 * 크롤링 (라즈베리파이4B + Ruby on Rails) : https://github.com/catchdeal/CatchDeal-RaspberryPi
 
 
-## 3. 캐치딜 개발 이야기
+## Story of CatchDeal
 1. [(Intro) 싼 것만 물어드려요 : 캐치딜 서비스!]
 2. [캐치딜 백엔드 개발이야기 : 좌충우돌 서버운영 이야기]
 3. [캐치딜 백엔드 개발이야기 : 문서화]
@@ -30,7 +28,7 @@
 [캐치딜 백엔드 개발이야기 : 나에게 맞는 합리적인 서버 비용을 찾아서..]: https://kbs4674.tistory.com/125
 
 
-## 4. 캐치딜 : 전체적인 프로젝트 개요
+##  Intro
 1. 커뮤니티에는 매일 갖가지 할인행사에 대한 정보를 사람들이 올리면서 공유한다.
 2. 커뮤니티 한 곳이 아닌 여러곳에 정보가 퍼져있다.
 3. 똑같은 정보에 대해 A, C 커뮤니티에는 정보가 있지만, 정작 B 커뮤니티에는 없는 경우가 있다.
@@ -38,7 +36,7 @@
 5. 크롤링에 대해선 매 시간 단위로 CronJob을 활용하여 Background Job을 통해 크롤링이 진행된다.
 
 
-## 6. CatchDeal Tech Stack
+## CatchDeal Tech Stack
 #### 1) Backend
 1. 대용량 트래픽을 고려하여 서버가 구축/설계가 되어야한다.
     * Redis-server
@@ -70,7 +68,7 @@
         * 제플린
             * 버전업 전 프로토타입 시안, 원본 이미지 저장
 
-## 7. 프로젝트 작동 Process
+## 7. Process
 1. 앱 ↔ 웹 기본 통신
 <img src="/img/process_connect.png" width="100%">
 <br/><br/>
